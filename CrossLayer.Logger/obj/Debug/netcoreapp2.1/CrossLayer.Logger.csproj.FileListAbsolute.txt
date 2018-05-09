@@ -1,0 +1,10 @@
+C:\Users\Rayen\Documents\CrossLayer.Logger\CrossLayer.Logger\bin\Debug\netcoreapp2.1\CrossLayer.Logger.deps.json
+C:\Users\Rayen\Documents\CrossLayer.Logger\CrossLayer.Logger\bin\Debug\netcoreapp2.1\CrossLayer.Logger.runtimeconfig.json
+C:\Users\Rayen\Documents\CrossLayer.Logger\CrossLayer.Logger\bin\Debug\netcoreapp2.1\CrossLayer.Logger.runtimeconfig.dev.json
+C:\Users\Rayen\Documents\CrossLayer.Logger\CrossLayer.Logger\bin\Debug\netcoreapp2.1\CrossLayer.Logger.dll
+C:\Users\Rayen\Documents\CrossLayer.Logger\CrossLayer.Logger\obj\Debug\netcoreapp2.1\CrossLayer.Logger.csproj.CoreCompileInputs.cache
+C:\Users\Rayen\Documents\CrossLayer.Logger\CrossLayer.Logger\obj\Debug\netcoreapp2.1\CrossLayer.Logger.AssemblyInfoInputs.cache
+C:\Users\Rayen\Documents\CrossLayer.Logger\CrossLayer.Logger\obj\Debug\netcoreapp2.1\CrossLayer.Logger.AssemblyInfo.cs
+C:\Users\Rayen\Documents\CrossLayer.Logger\CrossLayer.Logger\bin\Debug\netcoreapp2.1\CrossLayer.Logger.pdb
+C:\Users\Rayen\Documents\CrossLayer.Logger\CrossLayer.Logger\obj\Debug\netcoreapp2.1\CrossLayer.Logger.dll
+C:\Users\Rayen\Documents\CrossLayer.Logger\CrossLayer.Logger\obj\Debug\netcoreapp2.1\CrossLayer.Logger.pdb

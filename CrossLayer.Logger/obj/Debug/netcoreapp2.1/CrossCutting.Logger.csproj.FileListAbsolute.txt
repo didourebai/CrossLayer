@@ -1,0 +1,13 @@
+C:\Users\Rayen\Documents\CrossLayer.Logger\CrossLayer.Logger\bin\Debug\netcoreapp2.1\CrossCutting.Logger.deps.json
+C:\Users\Rayen\Documents\CrossLayer.Logger\CrossLayer.Logger\bin\Debug\netcoreapp2.1\CrossCutting.Logger.runtimeconfig.json
+C:\Users\Rayen\Documents\CrossLayer.Logger\CrossLayer.Logger\bin\Debug\netcoreapp2.1\CrossCutting.Logger.runtimeconfig.dev.json
+C:\Users\Rayen\Documents\CrossLayer.Logger\CrossLayer.Logger\bin\Debug\netcoreapp2.1\CrossCutting.Logger.dll
+C:\Users\Rayen\Documents\CrossLayer.Logger\CrossLayer.Logger\bin\Debug\netcoreapp2.1\CrossCutting.Logger.pdb
+C:\Users\Rayen\Documents\CrossLayer.Logger\CrossLayer.Logger\obj\Debug\netcoreapp2.1\CrossCutting.Logger.csprojResolveAssemblyReference.cache
+C:\Users\Rayen\Documents\CrossLayer.Logger\CrossLayer.Logger\obj\Debug\netcoreapp2.1\CrossCutting.Logger.csproj.CoreCompileInputs.cache
+C:\Users\Rayen\Documents\CrossLayer.Logger\CrossLayer.Logger\obj\Debug\netcoreapp2.1\CrossCutting.Logger.AssemblyInfoInputs.cache
+C:\Users\Rayen\Documents\CrossLayer.Logger\CrossLayer.Logger\obj\Debug\netcoreapp2.1\CrossCutting.Logger.AssemblyInfo.cs
+C:\Users\Rayen\Documents\CrossLayer.Logger\CrossLayer.Logger\obj\Debug\netcoreapp2.1\CrossCutting.Logger.dll
+C:\Users\Rayen\Documents\CrossLayer.Logger\CrossLayer.Logger\obj\Debug\netcoreapp2.1\CrossCutting.Logger.pdb
+C:\Users\Rayen\Documents\CrossLayer.Logger\CrossLayer.Logger\bin\Debug\netcoreapp2.1\CrossCutting.Logger.dll.config
+C:\Users\Rayen\Documents\CrossLayer.Logger\CrossLayer.Logger\bin\Debug\netcoreapp2.1\App.config

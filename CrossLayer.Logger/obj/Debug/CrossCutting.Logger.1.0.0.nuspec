@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CrossCutting.Logger</id>
+    <version>1.0.0</version>
+    <authors>Hamida REBAÏ</authors>
+    <owners>Hamida REBAÏ</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This package let you output log statements to a variety of output targets. It use Log4Net but with personalised output in the framework Core 2.1 RC1</description>
+    <copyright>Hamida</copyright>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.1">
+        <dependency id="Microsoft.NETCore.App" version="2.1.0-rc1" exclude="Build,Analyzers" />
+        <dependency id="NuGet.exe" version="3.4.3" exclude="Build,Analyzers" />
+        <dependency id="log4net" version="2.0.8" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Rayen\Documents\CrossLayer.Logger\CrossLayer.Logger\bin\Debug\netcoreapp2.1\CrossCutting.Logger.runtimeconfig.json" target="lib\netcoreapp2.1\CrossCutting.Logger.runtimeconfig.json" />
+    <file src="C:\Users\Rayen\Documents\CrossLayer.Logger\CrossLayer.Logger\bin\Debug\netcoreapp2.1\CrossCutting.Logger.dll" target="lib\netcoreapp2.1\CrossCutting.Logger.dll" />
+  </files>
+</package>
