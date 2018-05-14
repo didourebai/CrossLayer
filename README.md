@@ -55,7 +55,7 @@ public static class Log4netExtensions
         factory.AddProvider(new Log4NetProvider("log4net.config"));
         return factory;
     }
-}  
+
 
 And now, we can use it il our web application in this way:
 
