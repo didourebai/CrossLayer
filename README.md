@@ -59,18 +59,16 @@ public static class Log4netExtensions
 
 And now, we can use it il our web application in this way:
 
-public void Configure(IApplicationBuilder app,
-    IHostingEnvironment env, ILoggerFactory loggerFactory)
-{
-    loggerFactory.AddLog4Net();
+  public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerFactory loggerFactory)
+        {
+            loggerFactory.AddLog4Net();
 
-    if (env.IsDevelopment())
-    {
-        app.UseDeveloperExceptionPage();
-    }
-    app.UseMvcWithDefaultRoute();
-}
-
+            if (env.IsDevelopment())
+            {
+                app.UseDeveloperExceptionPage();
+            }
+            app.UseMvcWithDefaultRoute();
+        }
 
 
 
